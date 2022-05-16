@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <browser_name>any</browser_name>
+        <browser_version>Any</browser_version>
+        <description>スイート「NeedIt App」をこの設定でシステム上で実行：
+バージョンが Any で始まる 任意 ブラウザ
+バージョンが Any で始まる 任意 オペレーティングシステム</description>
+        <order>100</order>
+        <os_name>any</os_name>
+        <os_version>Any</os_version>
+        <schedule display_value="NeedIt App Suites">5181a8fc87270110b8951f073cbb3559</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 05:50:38</sys_created_on>
+        <sys_id>be322cfc87270110b8951f073cbb35a2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_be322cfc87270110b8951f073cbb35a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 05:56:10</sys_updated_on>
+        <test_suite display_value="NeedIt App">7661c03087e30110b8951f073cbb35a3</test_suite>
+        <watch_list/>
+    </sys_atf_schedule_run>
+</record_update>
